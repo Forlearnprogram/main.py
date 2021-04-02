@@ -1,4 +1,5 @@
 # main.py
-Day1
-First day so little bit heard,
-but you can learn it easyly 
+Day 1 - Python Print Function
+The function is declared like this:
+print('what to print')
+
